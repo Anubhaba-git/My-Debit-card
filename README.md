@@ -2,7 +2,7 @@
 
 This project showcases a **debit card design** created using HTML and CSS. It is a simple and elegant representation of a debit card, perfect for portfolio projects or UI practice.
 
-Here you can see UI of my debit card - https://my-debitcard-by-anubhaba.netlify.app/
+Here you can see UI of my debit card - <a href="https://my-debitcard-by-anubhaba.netlify.app/">My Debit Card</a>
 
 ## Features
 
